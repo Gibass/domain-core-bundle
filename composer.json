@@ -1,6 +1,6 @@
 {
   "name": "gibass/domain-core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Abstractions and helpers for domain layer in Symfony projects using Clean Architecture.",
   "type": "library",
   "license": "MIT",
